@@ -59,5 +59,3 @@ Este comando devuelve las películas que tengan el tag terror, al menos una "r" 
 
 node index.js --tag accion --sort rating --no-format
 Este comando tiene que devolver las películas que tengan el tag accion, ordenadas por rating y en formato JSON.
-
-Tips
